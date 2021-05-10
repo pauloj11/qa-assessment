@@ -1,0 +1,1 @@
+Ao preencher os campos com senhas inválidas, pressionar para enviar, rápidamente digitar outras senhas válidas e clicar para enviar novamente, houve o aparecimento de uma label 'Something went wrong'.
